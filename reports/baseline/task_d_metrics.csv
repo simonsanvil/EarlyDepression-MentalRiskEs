@@ -1,0 +1,4 @@
+method,rmse_mean,rmse_suffer_in_favour,rmse_suffer_against,rmse_suffer_other,rmse_control,r2_mean,r2_suffer_in_favour,r2_suffer_against,r2_suffer_other,r2_control,p@5,p@10,p@20,p@30,p@50
+BaseLine - Roberta Base,0.41,0.547,0.272,0.235,0.585,-0.145,-0.496,0.355,0.185,-0.624,0.25,0.3,0.225,0.192,0.25
+BaseLine - Roberta Large,0.437,0.682,0.312,0.158,0.598,-0.209,-0.678,0.89,0.059,-0.306,0.35,0.275,0.263,0.275,0.35
+BaseLine - Deberta,0.232,0.246,0.25,0.125,0.306,0.484,0.661,0.295,0.26,0.721,0.25,0.3,0.338,0.35,0.25

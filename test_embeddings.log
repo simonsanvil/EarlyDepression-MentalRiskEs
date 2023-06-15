@@ -1,0 +1,481 @@
+2023-06-13 14:50:33,984 [INFO] Loading data for task b...
+2023-06-13 14:50:35,575 [WARNING] Found cached dataset parquet (/Users/simon/.cache/huggingface/datasets/nlpUc3mStudents___parquet/nlpUc3mStudents--mental-risk-b-f4ab3613dcc8879e/0.0.0/2a3b91fbd88a2c90d1dbbb32b460cf621d31bd5b05b934492fdef7d8d6f236ec)
+2023-06-13 14:53:35,630 [INFO] Loading data for task b...
+2023-06-13 14:53:36,831 [WARNING] Found cached dataset parquet (/Users/simon/.cache/huggingface/datasets/nlpUc3mStudents___parquet/nlpUc3mStudents--mental-risk-b-f4ab3613dcc8879e/0.0.0/2a3b91fbd88a2c90d1dbbb32b460cf621d31bd5b05b934492fdef7d8d6f236ec)
+2023-06-13 14:53:36,874 [INFO] Evluating embeddings with model: PlanTL-GOB-ES/roberta-base-bne...
+2023-06-13 14:53:36,874 [INFO] ==================================================
+2023-06-13 14:53:36,874 [INFO] Making embeddings with model: PlanTL-GOB-ES/roberta-base-bne...
+2023-06-13 14:56:49,475 [INFO] Loading data for task b...
+2023-06-13 14:56:51,024 [WARNING] Found cached dataset parquet (/Users/simon/.cache/huggingface/datasets/nlpUc3mStudents___parquet/nlpUc3mStudents--mental-risk-b-f4ab3613dcc8879e/0.0.0/2a3b91fbd88a2c90d1dbbb32b460cf621d31bd5b05b934492fdef7d8d6f236ec)
+2023-06-13 14:56:51,057 [INFO] Evluating embeddings with model: PlanTL-GOB-ES/roberta-base-bne...
+2023-06-13 14:56:51,058 [INFO] ==================================================
+2023-06-13 14:57:34,299 [INFO] Loading data for task b...
+2023-06-13 14:57:35,624 [WARNING] Found cached dataset parquet (/Users/simon/.cache/huggingface/datasets/nlpUc3mStudents___parquet/nlpUc3mStudents--mental-risk-b-f4ab3613dcc8879e/0.0.0/2a3b91fbd88a2c90d1dbbb32b460cf621d31bd5b05b934492fdef7d8d6f236ec)
+2023-06-13 14:57:35,659 [INFO] Evluating embeddings with model: PlanTL-GOB-ES/roberta-base-bne...
+2023-06-13 14:57:35,659 [INFO] ==================================================
+2023-06-13 14:57:35,659 [INFO] Making embeddings with model: PlanTL-GOB-ES/roberta-base-bne...
+2023-06-13 14:57:54,000 [INFO] Loading data for task b...
+2023-06-13 14:57:54,129 [INFO] Evluating embeddings with model: PlanTL-GOB-ES/roberta-base-bne...
+2023-06-13 14:57:54,129 [INFO] ==================================================
+2023-06-13 14:57:54,142 [INFO] Making embeddings with model: PlanTL-GOB-ES/roberta-base-bne...
+2023-06-13 14:57:54,142 [INFO] Load pretrained SentenceTransformer: PlanTL-GOB-ES/roberta-base-bne
+2023-06-13 14:57:57,098 [WARNING] No sentence-transformers model found with name /Users/simon/.cache/torch/sentence_transformers/PlanTL-GOB-ES_roberta-base-bne. Creating a new one with MEAN pooling.
+2023-06-13 14:57:59,337 [INFO] Use pytorch device: cpu
+2023-06-13 14:58:44,527 [INFO] Load pretrained SentenceTransformer: PlanTL-GOB-ES/roberta-base-bne
+2023-06-13 14:58:47,086 [WARNING] No sentence-transformers model found with name /Users/simon/.cache/torch/sentence_transformers/PlanTL-GOB-ES_roberta-base-bne. Creating a new one with MEAN pooling.
+2023-06-13 14:58:47,981 [INFO] Use pytorch device: cpu
+2023-06-13 14:58:53,670 [INFO] Evaluating task: b, Embedding: PlanTL-GOB-ES/roberta-base-bne
+2023-06-13 15:01:40,574 [INFO] Loading data for task b...
+2023-06-13 15:01:40,684 [INFO] Evluating embeddings with model: PlanTL-GOB-ES/roberta-base-bne...
+2023-06-13 15:01:40,684 [INFO] ==================================================
+2023-06-13 15:01:40,698 [INFO] Making embeddings with model: PlanTL-GOB-ES/roberta-base-bne...
+2023-06-13 15:01:40,698 [INFO] Load pretrained SentenceTransformer: PlanTL-GOB-ES/roberta-base-bne
+2023-06-13 15:01:43,966 [WARNING] No sentence-transformers model found with name /Users/simon/.cache/torch/sentence_transformers/PlanTL-GOB-ES_roberta-base-bne. Creating a new one with MEAN pooling.
+2023-06-13 15:01:46,084 [INFO] Use pytorch device: cpu
+2023-06-13 15:02:30,735 [INFO] Load pretrained SentenceTransformer: PlanTL-GOB-ES/roberta-base-bne
+2023-06-13 15:02:35,076 [WARNING] No sentence-transformers model found with name /Users/simon/.cache/torch/sentence_transformers/PlanTL-GOB-ES_roberta-base-bne. Creating a new one with MEAN pooling.
+2023-06-13 15:02:35,994 [INFO] Use pytorch device: cpu
+2023-06-13 15:02:41,487 [INFO] Evaluating task: b, Embedding: PlanTL-GOB-ES/roberta-base-bne
+2023-06-13 16:52:14,374 [INFO] Loading data for task b...
+2023-06-13 16:52:14,494 [INFO] Evluating embeddings with model: PlanTL-GOB-ES/roberta-base-bne...
+2023-06-13 16:52:14,494 [INFO] ==================================================
+2023-06-13 16:52:14,509 [INFO] Making embeddings with model: PlanTL-GOB-ES/roberta-base-bne...
+2023-06-13 16:52:14,509 [INFO] Load pretrained SentenceTransformer: PlanTL-GOB-ES/roberta-base-bne
+2023-06-13 16:52:16,959 [WARNING] No sentence-transformers model found with name /Users/simon/.cache/torch/sentence_transformers/PlanTL-GOB-ES_roberta-base-bne. Creating a new one with MEAN pooling.
+2023-06-13 16:52:19,053 [INFO] Use pytorch device: cpu
+2023-06-13 16:53:06,783 [INFO] Load pretrained SentenceTransformer: PlanTL-GOB-ES/roberta-base-bne
+2023-06-13 16:53:09,307 [WARNING] No sentence-transformers model found with name /Users/simon/.cache/torch/sentence_transformers/PlanTL-GOB-ES_roberta-base-bne. Creating a new one with MEAN pooling.
+2023-06-13 16:53:10,207 [INFO] Use pytorch device: cpu
+2023-06-13 16:53:15,753 [INFO] Evaluating task: b, Embedding: PlanTL-GOB-ES/roberta-base-bne
+2023-06-13 17:00:32,789 [INFO] Loading data for task b...
+2023-06-13 17:00:32,916 [INFO] Evluating embeddings with model: PlanTL-GOB-ES/roberta-base-bne...
+2023-06-13 17:00:32,916 [INFO] ==================================================
+2023-06-13 17:00:32,932 [INFO] Making embeddings with model: PlanTL-GOB-ES/roberta-base-bne...
+2023-06-13 17:00:32,932 [INFO] Load pretrained SentenceTransformer: PlanTL-GOB-ES/roberta-base-bne
+2023-06-13 17:00:35,801 [WARNING] No sentence-transformers model found with name /Users/simon/.cache/torch/sentence_transformers/PlanTL-GOB-ES_roberta-base-bne. Creating a new one with MEAN pooling.
+2023-06-13 17:00:37,965 [INFO] Use pytorch device: cpu
+2023-06-13 17:01:24,068 [INFO] Load pretrained SentenceTransformer: PlanTL-GOB-ES/roberta-base-bne
+2023-06-13 17:01:26,798 [WARNING] No sentence-transformers model found with name /Users/simon/.cache/torch/sentence_transformers/PlanTL-GOB-ES_roberta-base-bne. Creating a new one with MEAN pooling.
+2023-06-13 17:01:27,724 [INFO] Use pytorch device: cpu
+2023-06-13 17:01:33,207 [INFO] Evaluating task: b, Embedding: PlanTL-GOB-ES/roberta-base-bne
+2023-06-13 17:02:47,803 [INFO] Loading data for task b...
+2023-06-13 17:02:47,913 [INFO] Evluating embeddings with model: PlanTL-GOB-ES/roberta-base-bne...
+2023-06-13 17:02:47,913 [INFO] ==================================================
+2023-06-13 17:02:47,913 [INFO] Making embeddings with model: PlanTL-GOB-ES/roberta-base-bne...
+2023-06-13 17:02:47,913 [INFO] Load pretrained SentenceTransformer: PlanTL-GOB-ES/roberta-base-bne
+2023-06-13 17:02:50,811 [WARNING] No sentence-transformers model found with name /Users/simon/.cache/torch/sentence_transformers/PlanTL-GOB-ES_roberta-base-bne. Creating a new one with MEAN pooling.
+2023-06-13 17:02:52,978 [INFO] Use pytorch device: cpu
+2023-06-13 17:03:39,979 [INFO] Load pretrained SentenceTransformer: PlanTL-GOB-ES/roberta-base-bne
+2023-06-13 17:03:43,023 [WARNING] No sentence-transformers model found with name /Users/simon/.cache/torch/sentence_transformers/PlanTL-GOB-ES_roberta-base-bne. Creating a new one with MEAN pooling.
+2023-06-13 17:03:44,031 [INFO] Use pytorch device: cpu
+2023-06-13 17:03:50,414 [INFO] Evaluating task: b, Embedding: PlanTL-GOB-ES/roberta-base-bne
+2023-06-13 17:04:50,029 [INFO] Loading data for task b...
+2023-06-13 17:04:50,141 [INFO] Evluating embeddings with model: PlanTL-GOB-ES/roberta-base-bne...
+2023-06-13 17:04:50,141 [INFO] ==================================================
+2023-06-13 17:04:50,141 [INFO] Making embeddings with model: PlanTL-GOB-ES/roberta-base-bne...
+2023-06-13 17:04:50,141 [INFO] Load pretrained SentenceTransformer: PlanTL-GOB-ES/roberta-base-bne
+2023-06-13 17:04:52,652 [WARNING] No sentence-transformers model found with name /Users/simon/.cache/torch/sentence_transformers/PlanTL-GOB-ES_roberta-base-bne. Creating a new one with MEAN pooling.
+2023-06-13 17:04:54,808 [INFO] Use pytorch device: cpu
+2023-06-13 17:05:40,052 [INFO] Load pretrained SentenceTransformer: PlanTL-GOB-ES/roberta-base-bne
+2023-06-13 17:05:42,224 [WARNING] No sentence-transformers model found with name /Users/simon/.cache/torch/sentence_transformers/PlanTL-GOB-ES_roberta-base-bne. Creating a new one with MEAN pooling.
+2023-06-13 17:05:43,205 [INFO] Use pytorch device: cpu
+2023-06-13 17:05:49,144 [INFO] Evaluating task: b, Embedding: PlanTL-GOB-ES/roberta-base-bne
+2023-06-13 17:05:49,203 [INFO] - Estimator: LinearRegression, score=0.359773217773153
+2023-06-13 17:05:49,981 [INFO] - Estimator: RandomForestRegressor, score=0.23854202207639705
+2023-06-13 17:05:50,306 [INFO] - Estimator: LGBMRegressor, score=0.24860714525000846
+2023-06-13 17:05:53,948 [INFO] - Estimator: GradientBoostingRegressor, score=0.2439909665669554
+2023-06-13 17:05:55,186 [INFO] - Estimator: AdaBoostRegressor, score=0.2302218908233945
+2023-06-13 17:05:55,218 [INFO] - Estimator: SVR, score=0.2346121989946444
+2023-06-13 17:05:56,118 [INFO] - Estimator: MLPRegressor, score=0.267120312412731
+2023-06-13 17:05:56,256 [INFO] - Estimator: Lasso, score=0.3571335237925231
+2023-06-13 17:05:56,720 [INFO] - Estimator: Ridge, score=0.2462601466828431
+2023-06-13 17:06:07,317 [INFO] Loading data for task b...
+2023-06-13 17:06:07,430 [INFO] Evluating embeddings with model: PlanTL-GOB-ES/roberta-base-bne...
+2023-06-13 17:06:07,431 [INFO] ==================================================
+2023-06-13 17:06:07,431 [INFO] Making embeddings with model: PlanTL-GOB-ES/roberta-base-bne...
+2023-06-13 17:06:07,431 [INFO] Load pretrained SentenceTransformer: PlanTL-GOB-ES/roberta-base-bne
+2023-06-13 17:06:09,853 [WARNING] No sentence-transformers model found with name /Users/simon/.cache/torch/sentence_transformers/PlanTL-GOB-ES_roberta-base-bne. Creating a new one with MEAN pooling.
+2023-06-13 17:06:11,970 [INFO] Use pytorch device: cpu
+2023-06-13 17:06:58,434 [INFO] Load pretrained SentenceTransformer: PlanTL-GOB-ES/roberta-base-bne
+2023-06-13 17:07:02,224 [WARNING] No sentence-transformers model found with name /Users/simon/.cache/torch/sentence_transformers/PlanTL-GOB-ES_roberta-base-bne. Creating a new one with MEAN pooling.
+2023-06-13 17:07:03,175 [INFO] Use pytorch device: cpu
+2023-06-13 17:07:08,790 [INFO] Evaluating task: b, Embedding: PlanTL-GOB-ES/roberta-base-bne
+2023-06-13 17:07:08,861 [INFO] - Estimator: LinearRegression, score=0.359773217773153
+2023-06-13 17:07:09,588 [INFO] - Estimator: RandomForestRegressor, score=0.23532735277260688
+2023-06-13 17:07:09,904 [INFO] - Estimator: LGBMRegressor, score=0.24860714525000846
+2023-06-13 17:07:13,342 [INFO] - Estimator: GradientBoostingRegressor, score=0.24418205170312646
+2023-06-13 17:07:14,584 [INFO] - Estimator: AdaBoostRegressor, score=0.23652174273292392
+2023-06-13 17:07:14,615 [INFO] - Estimator: SVR, score=0.2346121989946444
+2023-06-13 17:07:15,667 [INFO] - Estimator: MLPRegressor, score=0.26281354235711973
+2023-06-13 17:07:15,714 [INFO] - Estimator: Lasso, score=0.3571335237925231
+2023-06-13 17:07:16,000 [INFO] - Estimator: Ridge, score=0.2462601466828431
+2023-06-13 17:07:16,210 [INFO] Metric: r2_score -----------------
+2023-06-13 17:07:16,213 [INFO] 
+r2_score                    b_label
+LinearRegression          -0.022977
+RandomForestRegressor      0.562324
+LGBMRegressor              0.511533
+GradientBoostingRegressor  0.528767
+AdaBoostRegressor          0.557870
+SVR                        0.564980
+MLPRegressor               0.454112
+Lasso                     -0.008021
+Ridge                      0.520712
+2023-06-13 17:07:16,246 [INFO] Metric: mean_squared_error -----------------
+2023-06-13 17:07:16,248 [INFO] 
+mean_squared_error          b_label
+LinearRegression           0.129437
+RandomForestRegressor      0.055379
+LGBMRegressor              0.061806
+GradientBoostingRegressor  0.059625
+AdaBoostRegressor          0.055943
+SVR                        0.055043
+MLPRegressor               0.069071
+Lasso                      0.127544
+Ridge                      0.060644
+2023-06-13 17:07:16,250 [INFO] Evluating embeddings with model: hackathon-somos-nlp-2023/roberta-base-bne-finetuned-suicide-es...
+2023-06-13 17:07:16,250 [INFO] ==================================================
+2023-06-13 17:07:16,250 [INFO] Making embeddings with model: hackathon-somos-nlp-2023/roberta-base-bne-finetuned-suicide-es...
+2023-06-13 17:07:16,250 [INFO] Load pretrained SentenceTransformer: hackathon-somos-nlp-2023/roberta-base-bne-finetuned-suicide-es
+2023-06-13 17:07:18,488 [WARNING] No sentence-transformers model found with name /Users/simon/.cache/torch/sentence_transformers/hackathon-somos-nlp-2023_roberta-base-bne-finetuned-suicide-es. Creating a new one with MEAN pooling.
+2023-06-13 17:07:19,391 [INFO] Use pytorch device: cpu
+2023-06-13 17:08:06,795 [INFO] Load pretrained SentenceTransformer: hackathon-somos-nlp-2023/roberta-base-bne-finetuned-suicide-es
+2023-06-13 17:08:10,637 [WARNING] No sentence-transformers model found with name /Users/simon/.cache/torch/sentence_transformers/hackathon-somos-nlp-2023_roberta-base-bne-finetuned-suicide-es. Creating a new one with MEAN pooling.
+2023-06-13 17:08:11,561 [INFO] Use pytorch device: cpu
+2023-06-13 17:08:17,167 [INFO] Evaluating task: b, Embedding: hackathon-somos-nlp-2023/roberta-base-bne-finetuned-suicide-es
+2023-06-13 17:08:17,255 [INFO] - Estimator: LinearRegression, score=0.310053573605928
+2023-06-13 17:08:17,963 [INFO] - Estimator: RandomForestRegressor, score=0.26038966526684154
+2023-06-13 17:08:18,279 [INFO] - Estimator: LGBMRegressor, score=0.28143987419117555
+2023-06-13 17:08:21,754 [INFO] - Estimator: GradientBoostingRegressor, score=0.24962284860649872
+2023-06-13 17:08:22,984 [INFO] - Estimator: AdaBoostRegressor, score=0.26149155123542556
+2023-06-13 17:08:23,010 [INFO] - Estimator: SVR, score=0.262336717122564
+2023-06-13 17:08:23,700 [INFO] - Estimator: MLPRegressor, score=0.31313599838593553
+2023-06-13 17:08:23,894 [INFO] - Estimator: Lasso, score=0.3571335237925231
+2023-06-13 17:08:24,313 [INFO] - Estimator: Ridge, score=0.26920175379871575
+2023-06-13 17:08:24,508 [INFO] Metric: r2_score -----------------
+2023-06-13 17:08:24,510 [INFO] 
+r2_score                    b_label
+LinearRegression           0.240231
+RandomForestRegressor      0.464135
+LGBMRegressor              0.373993
+GradientBoostingRegressor  0.507533
+AdaBoostRegressor          0.459590
+SVR                        0.456091
+MLPRegressor               0.225049
+Lasso                     -0.008021
+Ridge                      0.427251
+2023-06-13 17:08:24,542 [INFO] Metric: mean_squared_error -----------------
+2023-06-13 17:08:24,544 [INFO] 
+mean_squared_error          b_label
+LinearRegression           0.096133
+RandomForestRegressor      0.067803
+LGBMRegressor              0.079208
+GradientBoostingRegressor  0.062312
+AdaBoostRegressor          0.068378
+SVR                        0.068821
+MLPRegressor               0.098054
+Lasso                      0.127544
+Ridge                      0.072470
+2023-06-13 17:08:24,545 [INFO] Evluating embeddings with model: dccuchile/bert-base-spanish-wwm-cased...
+2023-06-13 17:08:24,545 [INFO] ==================================================
+2023-06-13 17:08:24,545 [INFO] Making embeddings with model: dccuchile/bert-base-spanish-wwm-cased...
+2023-06-13 17:08:24,545 [INFO] Load pretrained SentenceTransformer: dccuchile/bert-base-spanish-wwm-cased
+2023-06-13 17:08:26,839 [WARNING] No sentence-transformers model found with name /Users/simon/.cache/torch/sentence_transformers/dccuchile_bert-base-spanish-wwm-cased. Creating a new one with MEAN pooling.
+2023-06-13 17:08:27,524 [INFO] Use pytorch device: cpu
+2023-06-13 17:09:03,311 [INFO] Load pretrained SentenceTransformer: dccuchile/bert-base-spanish-wwm-cased
+2023-06-13 17:09:05,548 [WARNING] No sentence-transformers model found with name /Users/simon/.cache/torch/sentence_transformers/dccuchile_bert-base-spanish-wwm-cased. Creating a new one with MEAN pooling.
+2023-06-13 17:09:06,268 [INFO] Use pytorch device: cpu
+2023-06-13 17:09:12,028 [INFO] Evaluating task: b, Embedding: dccuchile/bert-base-spanish-wwm-cased
+2023-06-13 17:09:12,070 [INFO] - Estimator: LinearRegression, score=0.3813911376296055
+2023-06-13 17:09:12,854 [INFO] - Estimator: RandomForestRegressor, score=0.24591085406737984
+2023-06-13 17:09:13,155 [INFO] - Estimator: LGBMRegressor, score=0.24505099311676717
+2023-06-13 17:09:16,688 [INFO] - Estimator: GradientBoostingRegressor, score=0.2484681089710185
+2023-06-13 17:09:17,937 [INFO] - Estimator: AdaBoostRegressor, score=0.21923483766246188
+2023-06-13 17:09:17,964 [INFO] - Estimator: SVR, score=0.22930563349529334
+2023-06-13 17:09:18,540 [INFO] - Estimator: MLPRegressor, score=0.33535763644724104
+2023-06-13 17:09:18,580 [INFO] - Estimator: Lasso, score=0.3571335237925231
+2023-06-13 17:09:18,940 [INFO] - Estimator: Ridge, score=0.3320291830948533
+2023-06-13 17:09:19,187 [INFO] Metric: r2_score -----------------
+2023-06-13 17:09:19,189 [INFO] 
+r2_score                    b_label
+LinearRegression          -0.149607
+RandomForestRegressor      0.522071
+LGBMRegressor              0.525407
+GradientBoostingRegressor  0.512079
+AdaBoostRegressor          0.620137
+SVR                        0.584436
+MLPRegressor               0.111158
+Lasso                     -0.008021
+Ridge                      0.128714
+2023-06-13 17:09:19,215 [INFO] Metric: mean_squared_error -----------------
+2023-06-13 17:09:19,217 [INFO] 
+mean_squared_error          b_label
+LinearRegression           0.145459
+RandomForestRegressor      0.060472
+LGBMRegressor              0.060050
+GradientBoostingRegressor  0.061736
+AdaBoostRegressor          0.048064
+SVR                        0.052581
+MLPRegressor               0.112465
+Lasso                      0.127544
+Ridge                      0.110243
+2023-06-13 17:14:42,095 [INFO] Loading data for task b...
+2023-06-13 17:14:42,204 [INFO] Evluating embeddings with model: PlanTL-GOB-ES/roberta-base-bne...
+2023-06-13 17:14:42,205 [INFO] ==================================================
+2023-06-13 17:14:42,205 [INFO] Making embeddings with model: PlanTL-GOB-ES/roberta-base-bne...
+2023-06-13 17:14:42,205 [INFO] Load pretrained SentenceTransformer: PlanTL-GOB-ES/roberta-base-bne
+2023-06-13 17:14:44,605 [WARNING] No sentence-transformers model found with name /Users/simon/.cache/torch/sentence_transformers/PlanTL-GOB-ES_roberta-base-bne. Creating a new one with MEAN pooling.
+2023-06-13 17:14:46,823 [INFO] Use pytorch device: cpu
+2023-06-13 17:15:32,156 [INFO] Load pretrained SentenceTransformer: PlanTL-GOB-ES/roberta-base-bne
+2023-06-13 17:15:34,503 [WARNING] No sentence-transformers model found with name /Users/simon/.cache/torch/sentence_transformers/PlanTL-GOB-ES_roberta-base-bne. Creating a new one with MEAN pooling.
+2023-06-13 17:15:35,650 [INFO] Use pytorch device: cpu
+2023-06-13 17:15:42,271 [INFO] Evaluating task: b, Embedding: PlanTL-GOB-ES/roberta-base-bne
+2023-06-13 17:15:42,315 [INFO] - Estimator: LinearRegression, score=0.359773217773153
+2023-06-13 17:15:43,086 [INFO] - Estimator: RandomForestRegressor, score=0.23668810544524468
+2023-06-13 17:15:43,406 [INFO] - Estimator: LGBMRegressor, score=0.24860714525000846
+2023-06-13 17:15:46,859 [INFO] - Estimator: GradientBoostingRegressor, score=0.24292931160087589
+2023-06-13 17:15:48,090 [INFO] - Estimator: AdaBoostRegressor, score=0.24170856244448083
+2023-06-13 17:15:48,120 [INFO] - Estimator: SVR, score=0.2346121989946444
+2023-06-13 17:15:48,969 [INFO] - Estimator: MLPRegressor, score=0.27351156135965576
+2023-06-13 17:15:49,008 [INFO] - Estimator: Lasso, score=0.3571335237925231
+2023-06-13 17:15:49,415 [INFO] - Estimator: Ridge, score=0.2462601466828431
+2023-06-13 17:15:49,544 [INFO] Metric: r2_score -----------------
+2023-06-13 17:15:49,549 [INFO] 
+r2_score                   r2_score_b_label
+LinearRegression                  -0.022977
+RandomForestRegressor              0.557247
+LGBMRegressor                      0.511533
+GradientBoostingRegressor          0.533590
+AdaBoostRegressor                  0.538266
+SVR                                0.564980
+MLPRegressor                       0.408766
+Lasso                             -0.008021
+Ridge                              0.520712
+2023-06-13 17:15:49,645 [INFO] Metric: mean_squared_error -----------------
+2023-06-13 17:15:49,647 [INFO] 
+mean_squared_error         mean_squared_error_b_label
+LinearRegression                             0.129437
+RandomForestRegressor                        0.056021
+LGBMRegressor                                0.061806
+GradientBoostingRegressor                    0.059015
+AdaBoostRegressor                            0.058423
+SVR                                          0.055043
+MLPRegressor                                 0.074809
+Lasso                                        0.127544
+Ridge                                        0.060644
+2023-06-13 17:15:49,651 [INFO] Evluating embeddings with model: hackathon-somos-nlp-2023/roberta-base-bne-finetuned-suicide-es...
+2023-06-13 17:15:49,651 [INFO] ==================================================
+2023-06-13 17:15:49,652 [INFO] Making embeddings with model: hackathon-somos-nlp-2023/roberta-base-bne-finetuned-suicide-es...
+2023-06-13 17:15:49,652 [INFO] Load pretrained SentenceTransformer: hackathon-somos-nlp-2023/roberta-base-bne-finetuned-suicide-es
+2023-06-13 17:15:51,972 [WARNING] No sentence-transformers model found with name /Users/simon/.cache/torch/sentence_transformers/hackathon-somos-nlp-2023_roberta-base-bne-finetuned-suicide-es. Creating a new one with MEAN pooling.
+2023-06-13 17:15:53,166 [INFO] Use pytorch device: cpu
+2023-06-13 17:16:39,708 [INFO] Load pretrained SentenceTransformer: hackathon-somos-nlp-2023/roberta-base-bne-finetuned-suicide-es
+2023-06-13 17:16:41,828 [WARNING] No sentence-transformers model found with name /Users/simon/.cache/torch/sentence_transformers/hackathon-somos-nlp-2023_roberta-base-bne-finetuned-suicide-es. Creating a new one with MEAN pooling.
+2023-06-13 17:16:42,721 [INFO] Use pytorch device: cpu
+2023-06-13 17:16:48,559 [INFO] Evaluating task: b, Embedding: hackathon-somos-nlp-2023/roberta-base-bne-finetuned-suicide-es
+2023-06-13 17:16:48,614 [INFO] - Estimator: LinearRegression, score=0.310053573605928
+2023-06-13 17:16:49,398 [INFO] - Estimator: RandomForestRegressor, score=0.25651835541860674
+2023-06-13 17:16:49,704 [INFO] - Estimator: LGBMRegressor, score=0.28143987419117555
+2023-06-13 17:16:53,169 [INFO] - Estimator: GradientBoostingRegressor, score=0.24559908870389852
+2023-06-13 17:16:54,382 [INFO] - Estimator: AdaBoostRegressor, score=0.2735128989220227
+2023-06-13 17:16:54,408 [INFO] - Estimator: SVR, score=0.262336717122564
+2023-06-13 17:16:55,062 [INFO] - Estimator: MLPRegressor, score=0.3225371314644722
+2023-06-13 17:16:55,106 [INFO] - Estimator: Lasso, score=0.3571335237925231
+2023-06-13 17:16:55,587 [INFO] - Estimator: Ridge, score=0.26920175379871575
+2023-06-13 17:16:55,748 [INFO] Metric: r2_score -----------------
+2023-06-13 17:16:55,749 [INFO] 
+r2_score                   r2_score_b_label
+LinearRegression                   0.240231
+RandomForestRegressor              0.479950
+LGBMRegressor                      0.373993
+GradientBoostingRegressor          0.523282
+AdaBoostRegressor                  0.408760
+SVR                                0.456091
+MLPRegressor                       0.177819
+Lasso                             -0.008021
+Ridge                              0.427251
+2023-06-13 17:16:55,810 [INFO] Metric: mean_squared_error -----------------
+2023-06-13 17:16:55,812 [INFO] 
+mean_squared_error         mean_squared_error_b_label
+LinearRegression                             0.096133
+RandomForestRegressor                        0.065802
+LGBMRegressor                                0.079208
+GradientBoostingRegressor                    0.060319
+AdaBoostRegressor                            0.074809
+SVR                                          0.068821
+MLPRegressor                                 0.104030
+Lasso                                        0.127544
+Ridge                                        0.072470
+2023-06-13 17:16:55,816 [INFO] Evluating embeddings with model: dccuchile/bert-base-spanish-wwm-cased...
+2023-06-13 17:16:55,816 [INFO] ==================================================
+2023-06-13 17:16:55,816 [INFO] Making embeddings with model: dccuchile/bert-base-spanish-wwm-cased...
+2023-06-13 17:16:55,816 [INFO] Load pretrained SentenceTransformer: dccuchile/bert-base-spanish-wwm-cased
+2023-06-13 17:16:57,964 [WARNING] No sentence-transformers model found with name /Users/simon/.cache/torch/sentence_transformers/dccuchile_bert-base-spanish-wwm-cased. Creating a new one with MEAN pooling.
+2023-06-13 17:16:58,678 [INFO] Use pytorch device: cpu
+2023-06-13 17:17:34,169 [INFO] Load pretrained SentenceTransformer: dccuchile/bert-base-spanish-wwm-cased
+2023-06-13 17:17:37,042 [WARNING] No sentence-transformers model found with name /Users/simon/.cache/torch/sentence_transformers/dccuchile_bert-base-spanish-wwm-cased. Creating a new one with MEAN pooling.
+2023-06-13 17:17:37,747 [INFO] Use pytorch device: cpu
+2023-06-13 17:17:43,299 [INFO] Evaluating task: b, Embedding: dccuchile/bert-base-spanish-wwm-cased
+2023-06-13 17:17:43,369 [INFO] - Estimator: LinearRegression, score=0.3813911376296055
+2023-06-13 17:17:44,091 [INFO] - Estimator: RandomForestRegressor, score=0.2331843174956797
+2023-06-13 17:17:44,401 [INFO] - Estimator: LGBMRegressor, score=0.24505099311676717
+2023-06-13 17:17:47,898 [INFO] - Estimator: GradientBoostingRegressor, score=0.22419387268065347
+2023-06-13 17:17:49,169 [INFO] - Estimator: AdaBoostRegressor, score=0.2274548512947558
+2023-06-13 17:17:49,197 [INFO] - Estimator: SVR, score=0.22930563349529334
+2023-06-13 17:17:50,159 [INFO] - Estimator: MLPRegressor, score=0.32627819749771836
+2023-06-13 17:17:50,221 [INFO] - Estimator: Lasso, score=0.3571335237925231
+2023-06-13 17:17:50,776 [INFO] - Estimator: Ridge, score=0.3320291830948533
+2023-06-13 17:17:50,988 [INFO] Metric: r2_score -----------------
+2023-06-13 17:17:50,990 [INFO] 
+r2_score                   r2_score_b_label
+LinearRegression                  -0.149607
+RandomForestRegressor              0.570259
+LGBMRegressor                      0.525407
+GradientBoostingRegressor          0.602757
+AdaBoostRegressor                  0.591117
+SVR                                0.584436
+MLPRegressor                       0.158635
+Lasso                             -0.008021
+Ridge                              0.128714
+2023-06-13 17:17:51,020 [INFO] Metric: mean_squared_error -----------------
+2023-06-13 17:17:51,021 [INFO] 
+mean_squared_error         mean_squared_error_b_label
+LinearRegression                             0.145459
+RandomForestRegressor                        0.054375
+LGBMRegressor                                0.060050
+GradientBoostingRegressor                    0.050263
+AdaBoostRegressor                            0.051736
+SVR                                          0.052581
+MLPRegressor                                 0.106457
+Lasso                                        0.127544
+Ridge                                        0.110243
+2023-06-13 17:18:46,419 [INFO] Loading data for task b...
+2023-06-13 17:18:46,530 [INFO] Evluating embeddings with model: PlanTL-GOB-ES/roberta-base-bne...
+2023-06-13 17:18:46,530 [INFO] ==================================================
+2023-06-13 17:18:46,530 [INFO] Making embeddings with model: PlanTL-GOB-ES/roberta-base-bne...
+2023-06-13 17:18:46,530 [INFO] Load pretrained SentenceTransformer: PlanTL-GOB-ES/roberta-base-bne
+2023-06-13 17:18:49,101 [WARNING] No sentence-transformers model found with name /Users/simon/.cache/torch/sentence_transformers/PlanTL-GOB-ES_roberta-base-bne. Creating a new one with MEAN pooling.
+2023-06-13 17:18:51,193 [INFO] Use pytorch device: cpu
+2023-06-13 17:19:37,062 [INFO] Load pretrained SentenceTransformer: PlanTL-GOB-ES/roberta-base-bne
+2023-06-13 17:19:39,903 [WARNING] No sentence-transformers model found with name /Users/simon/.cache/torch/sentence_transformers/PlanTL-GOB-ES_roberta-base-bne. Creating a new one with MEAN pooling.
+2023-06-13 17:19:40,817 [INFO] Use pytorch device: cpu
+2023-06-13 17:19:46,306 [INFO] Evaluating task: b, Embedding: PlanTL-GOB-ES/roberta-base-bne
+2023-06-13 17:19:46,677 [INFO] - Estimator: LinearRegression, score=0.359773217773153
+2023-06-13 17:19:47,401 [INFO] - Estimator: RandomForestRegressor, score=0.23041395919647012
+2023-06-13 17:19:47,709 [INFO] - Estimator: LGBMRegressor, score=0.24860714525000846
+2023-06-13 17:19:51,213 [INFO] - Estimator: GradientBoostingRegressor, score=0.24361272862032346
+2023-06-13 17:19:52,468 [INFO] - Estimator: AdaBoostRegressor, score=0.23608922537197985
+2023-06-13 17:19:52,498 [INFO] - Estimator: SVR, score=0.2346121989946444
+2023-06-13 17:19:54,012 [INFO] - Estimator: MLPRegressor, score=0.26870888086700473
+2023-06-13 17:19:54,101 [INFO] - Estimator: Lasso, score=0.3571335237925231
+2023-06-13 17:19:54,480 [INFO] - Estimator: Ridge, score=0.2462601466828431
+2023-06-13 17:19:54,661 [INFO] Metric: r2_score -----------------
+2023-06-13 17:19:54,665 [INFO] 
+r2_score                   r2_score_b_label
+LinearRegression                  -0.022977
+RandomForestRegressor              0.580409
+LGBMRegressor                      0.511533
+GradientBoostingRegressor          0.530962
+AdaBoostRegressor                  0.559485
+SVR                                0.564980
+MLPRegressor                       0.429347
+Lasso                             -0.008021
+Ridge                              0.520712
+2023-06-13 17:19:54,740 [INFO] Metric: mean_squared_error -----------------
+2023-06-13 17:19:54,742 [INFO] 
+mean_squared_error         mean_squared_error_b_label
+LinearRegression                             0.129437
+RandomForestRegressor                        0.053091
+LGBMRegressor                                0.061806
+GradientBoostingRegressor                    0.059347
+AdaBoostRegressor                            0.055738
+SVR                                          0.055043
+MLPRegressor                                 0.072204
+Lasso                                        0.127544
+Ridge                                        0.060644
+2023-06-13 17:19:54,745 [INFO] Evluating embeddings with model: hackathon-somos-nlp-2023/roberta-base-bne-finetuned-suicide-es...
+2023-06-13 17:19:54,745 [INFO] ==================================================
+2023-06-13 17:19:54,745 [INFO] Making embeddings with model: hackathon-somos-nlp-2023/roberta-base-bne-finetuned-suicide-es...
+2023-06-13 17:19:54,746 [INFO] Load pretrained SentenceTransformer: hackathon-somos-nlp-2023/roberta-base-bne-finetuned-suicide-es
+2023-06-13 17:19:56,969 [WARNING] No sentence-transformers model found with name /Users/simon/.cache/torch/sentence_transformers/hackathon-somos-nlp-2023_roberta-base-bne-finetuned-suicide-es. Creating a new one with MEAN pooling.
+2023-06-13 17:19:58,242 [INFO] Use pytorch device: cpu
+2023-06-13 17:20:47,719 [INFO] Load pretrained SentenceTransformer: hackathon-somos-nlp-2023/roberta-base-bne-finetuned-suicide-es
+2023-06-13 17:20:49,952 [WARNING] No sentence-transformers model found with name /Users/simon/.cache/torch/sentence_transformers/hackathon-somos-nlp-2023_roberta-base-bne-finetuned-suicide-es. Creating a new one with MEAN pooling.
+2023-06-13 17:20:50,931 [INFO] Use pytorch device: cpu
+2023-06-13 17:20:56,690 [INFO] Evaluating task: b, Embedding: hackathon-somos-nlp-2023/roberta-base-bne-finetuned-suicide-es
+2023-06-13 17:20:56,740 [INFO] - Estimator: LinearRegression, score=0.310053573605928
+2023-06-13 17:20:57,481 [INFO] - Estimator: RandomForestRegressor, score=0.2603549571329567
+2023-06-13 17:20:57,801 [INFO] - Estimator: LGBMRegressor, score=0.28143987419117555
+2023-06-13 17:21:01,240 [INFO] - Estimator: GradientBoostingRegressor, score=0.2460261266459567
+2023-06-13 17:21:02,456 [INFO] - Estimator: AdaBoostRegressor, score=0.27389939636649147
+2023-06-13 17:21:02,483 [INFO] - Estimator: SVR, score=0.262336717122564
+2023-06-13 17:21:03,080 [INFO] - Estimator: MLPRegressor, score=0.3047044301788956
+2023-06-13 17:21:03,199 [INFO] - Estimator: Lasso, score=0.3571335237925231
+2023-06-13 17:21:03,599 [INFO] - Estimator: Ridge, score=0.26920175379871575
+2023-06-13 17:21:03,817 [INFO] Metric: r2_score -----------------
+2023-06-13 17:21:03,825 [INFO] 
+r2_score                   r2_score_b_label
+LinearRegression                   0.240231
+RandomForestRegressor              0.464277
+LGBMRegressor                      0.373993
+GradientBoostingRegressor          0.521623
+AdaBoostRegressor                  0.407088
+SVR                                0.456091
+MLPRegressor                       0.266220
+Lasso                             -0.008021
+Ridge                              0.427251
+2023-06-13 17:21:03,858 [INFO] Metric: mean_squared_error -----------------
+2023-06-13 17:21:03,859 [INFO] 
+mean_squared_error         mean_squared_error_b_label
+LinearRegression                             0.096133
+RandomForestRegressor                        0.067785
+LGBMRegressor                                0.079208
+GradientBoostingRegressor                    0.060529
+AdaBoostRegressor                            0.075021
+SVR                                          0.068821
+MLPRegressor                                 0.092845
+Lasso                                        0.127544
+Ridge                                        0.072470
+2023-06-13 17:21:03,860 [INFO] Evluating embeddings with model: dccuchile/bert-base-spanish-wwm-cased...
+2023-06-13 17:21:03,860 [INFO] ==================================================
+2023-06-13 17:21:03,860 [INFO] Making embeddings with model: dccuchile/bert-base-spanish-wwm-cased...
+2023-06-13 17:21:03,861 [INFO] Load pretrained SentenceTransformer: dccuchile/bert-base-spanish-wwm-cased
+2023-06-13 17:21:06,798 [WARNING] No sentence-transformers model found with name /Users/simon/.cache/torch/sentence_transformers/dccuchile_bert-base-spanish-wwm-cased. Creating a new one with MEAN pooling.
+2023-06-13 17:21:07,532 [INFO] Use pytorch device: cpu
+2023-06-13 17:21:43,447 [INFO] Load pretrained SentenceTransformer: dccuchile/bert-base-spanish-wwm-cased
+2023-06-13 17:21:45,352 [WARNING] No sentence-transformers model found with name /Users/simon/.cache/torch/sentence_transformers/dccuchile_bert-base-spanish-wwm-cased. Creating a new one with MEAN pooling.
+2023-06-13 17:21:46,062 [INFO] Use pytorch device: cpu
+2023-06-13 17:21:52,338 [INFO] Evaluating task: b, Embedding: dccuchile/bert-base-spanish-wwm-cased
+2023-06-13 17:21:52,384 [INFO] - Estimator: LinearRegression, score=0.3813911376296055
+2023-06-13 17:21:53,119 [INFO] - Estimator: RandomForestRegressor, score=0.24562754098205053
+2023-06-13 17:21:53,425 [INFO] - Estimator: LGBMRegressor, score=0.24505099311676717
+2023-06-13 17:21:57,072 [INFO] - Estimator: GradientBoostingRegressor, score=0.2319370595296072
+2023-06-13 17:21:58,336 [INFO] - Estimator: AdaBoostRegressor, score=0.2235945244061541
+2023-06-13 17:21:58,364 [INFO] - Estimator: SVR, score=0.22930563349529334
+2023-06-13 17:21:58,858 [INFO] - Estimator: MLPRegressor, score=0.2944451723501791
+2023-06-13 17:21:58,918 [INFO] - Estimator: Lasso, score=0.3571335237925231
+2023-06-13 17:21:59,113 [INFO] - Estimator: Ridge, score=0.3320291830948533
+2023-06-13 17:21:59,199 [INFO] Metric: r2_score -----------------
+2023-06-13 17:21:59,217 [INFO] 
+r2_score                   r2_score_b_label
+LinearRegression                  -0.149607
+RandomForestRegressor              0.523171
+LGBMRegressor                      0.525407
+GradientBoostingRegressor          0.574844
+AdaBoostRegressor                  0.604879
+SVR                                0.584436
+MLPRegressor                       0.314800
+Lasso                             -0.008021
+Ridge                              0.128714
+2023-06-13 17:21:59,283 [INFO] Metric: mean_squared_error -----------------
+2023-06-13 17:21:59,285 [INFO] 
+mean_squared_error         mean_squared_error_b_label
+LinearRegression                             0.145459
+RandomForestRegressor                        0.060333
+LGBMRegressor                                0.060050
+GradientBoostingRegressor                    0.053795
+AdaBoostRegressor                            0.049995
+SVR                                          0.052581
+MLPRegressor                                 0.086698
+Lasso                                        0.127544
+Ridge                                        0.110243
