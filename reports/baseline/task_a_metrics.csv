@@ -1,0 +1,4 @@
+method,accuracy,macro_precision,macro_recall,macro_f1,erde5,erde30,latency_tp,speed,latency_weighted_f1
+BaseLine - Deberta,0.664,0.788,0.691,0.642,0.303,0.153,2.0,0.984,0.719
+BaseLine - Roberta Large,0.698,0.759,0.718,0.69,0.29,0.159,4.0,0.951,0.704
+BaseLine - Roberta Base,0.631,0.744,0.658,0.605,0.342,0.176,4.0,0.951,0.671

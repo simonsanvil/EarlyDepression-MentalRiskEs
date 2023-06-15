@@ -1,0 +1,10 @@
+,r2_score_b_label,mean_squared_error_b_label,mean,std,task,embedding_model
+LinearRegression,0.24023074272839295,0.09613321850580663,0.1681819806170998,0.07204876211129316,b,hackathon-somos-nlp-2023/roberta-base-bne-finetuned-suicide-es
+RandomForestRegressor,0.47994996747614926,0.06580166666666666,0.27287581707140796,0.2070741504047413,b,hackathon-somos-nlp-2023/roberta-base-bne-finetuned-suicide-es
+LGBMRegressor,0.37399256688986426,0.07920840278474474,0.2266004848373045,0.14739208205255974,b,hackathon-somos-nlp-2023/roberta-base-bne-finetuned-suicide-es
+GradientBoostingRegressor,0.5232817961912059,0.06031891237218542,0.29180035428169565,0.23148144190951023,b,hackathon-somos-nlp-2023/roberta-base-bne-finetuned-suicide-es
+AdaBoostRegressor,0.40875993078778006,0.07480930587672861,0.24178461833225434,0.16697531245552574,b,hackathon-somos-nlp-2023/roberta-base-bne-finetuned-suicide-es
+SVR,0.4560908147569429,0.06882055315064416,0.26245568395379354,0.19363513080314937,b,hackathon-somos-nlp-2023/roberta-base-bne-finetuned-suicide-es
+MLPRegressor,0.17781855317261763,0.10403020117333023,0.14092437717297393,0.0368941759996437,b,hackathon-somos-nlp-2023/roberta-base-bne-finetuned-suicide-es
+Lasso,-0.008020749481816525,0.12754435381646467,0.059761802167324074,0.0677825516491406,b,hackathon-somos-nlp-2023/roberta-base-bne-finetuned-suicide-es
+Ridge,0.42725144279039584,0.07246958424830437,0.2498605135193501,0.17739092927104572,b,hackathon-somos-nlp-2023/roberta-base-bne-finetuned-suicide-es
