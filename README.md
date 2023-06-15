@@ -1,7 +1,7 @@
 A Framework for Identifying Depression on Social Media
 ==============================
 
-This repository contains the code for the paper:  **A Framework for Identifying Depression on Social Media: MentalRiskES@IberLEF 2023** was submitted to the proceedings of the [IberLEF 2023](https://sites.google.com/view/iberlef-2023/home) evaluation campaign of Natural Language Processing (NLP) tools for Spanish. In the paper we describe our participation in Task 2 of the MentalRiskES competition, which evaluated systems for the early-risk detection of depression from Telegram conversations. 
+This repository contains the code for the paper:  **A Framework for Identifying Depression on Social Media: MentalRiskES@IberLEF 2023**, which was submitted to the proceedings of the [IberLEF 2023](https://sites.google.com/view/iberlef-2023/home) evaluation campaign of Natural Language Processing (NLP) tools for Spanish and is still under review. In the paper, we describe our participation in Task 2 of the MentalRiskES competition, which evaluated systems for the early-risk detection of depression from Telegram conversations. 
 
 ## Abstract of the paper: 
 
